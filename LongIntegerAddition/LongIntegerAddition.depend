@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1553405259 source:c:\users\jason\desktop\longintegeraddition\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<malloc.h>
+	<string.h>
+
+1553223417 c:\users\jason\desktop\longintegeraddition\resource.h
+
+1553223417 source:c:\users\jason\desktop\longintegeraddition\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1553917746 source:c:\users\jason\desktop\长整数加法\longintegeraddition\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+	<malloc.h>
+	<string.h>
+
+1553652212 c:\users\jason\desktop\长整数加法\longintegeraddition\resource.h
+
+1553652212 source:c:\users\jason\desktop\长整数加法\longintegeraddition\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
